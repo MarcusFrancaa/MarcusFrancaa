@@ -1,4 +1,4 @@
-<h1>Olá! Sou Marcus França!!</h1> <br>
+<h1>Olá! Sou Marcus França!!</h1> [(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)] <br>
 
 - 🔭 Atualmente busco minha primeira vaga na área de programação <br>
 - 🌱 Estou aprendendo javascript e python <br>
@@ -11,14 +11,14 @@
 
 <div align="center">
 <a href="https://github.com/MarcusFrancaa">   
-<img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api?username=MarcusFrancaa&show_icons=true&theme=dark"/>
-<img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusFrancaa&layout=compact&theme=dark"/>
+<img align="center" height="150em" width=395 src="https://github-readme-stats.vercel.app/api?username=MarcusFrancaa&show_icons=true&theme=dark"/>
+<img align="center" height="150em" width=395 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusFrancaa&layout=compact&theme=dark"/>
 
   
 <div style="display: inline_block"> 
 
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 =========================================================================================================================================
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Sejam+Bem+Vindos!!!) <br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcuss_18/)
