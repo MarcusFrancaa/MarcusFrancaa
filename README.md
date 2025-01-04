@@ -1,13 +1,14 @@
-<h1>Olá! Sou Marcus França!!</h1>
-- 🔭 Atualmente busco minha primeira vaga na área de programação
-- 🌱 Estou aprendendo javascript e python
+<h1>Olá! Sou Marcus França!!</h1> <br>
+
+- 🔭 Atualmente busco minha primeira vaga na área de programação <br>
+- 🌱 Estou aprendendo javascript e python <br>
 - 📫 Entrar em contato comigo pelo e-mail: marcusfr19@gmail.com
 
 
 <br>
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
 <br>
-<br>
+
 <div align="center">
 <a href="https://github.com/MarcusFrancaa">   
 <img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api?username=MarcusFrancaa&show_icons=true&theme=dark"/>
