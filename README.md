@@ -1,5 +1,4 @@
-<h1>Olá! Sou Marcus França!!</h1> [(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)] <br>
-
+<h1>Olá! Sou Marcus França!!</h1>
 - 🔭 Atualmente busco minha primeira vaga na área de programação <br>
 - 🌱 Estou aprendendo javascript e python <br>
 - 📫 Entrar em contato comigo pelo e-mail: marcusfr19@gmail.com
@@ -18,6 +17,7 @@
 <div style="display: inline_block"> 
 
 
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br>
 
 =========================================================================================================================================
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Sejam+Bem+Vindos!!!) <br>
